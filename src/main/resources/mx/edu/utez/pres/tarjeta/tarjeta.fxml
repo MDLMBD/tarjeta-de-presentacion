@@ -29,7 +29,7 @@
                 <Insets left="50" right="50"/>
             </padding>
             <children>
-                <Label text="Nombre: Mateo Quintero Martínez" style="-fx-font-size: 16px;"/>
+                <Label text="Nombre: Mateo Quintero Martinez" style="-fx-font-size: 16px;"/>
                 <Label text="Carrera: Desarrollo de Software Multiplataforma"
                        style="-fx-font-size: 16px;"/>
                 <Label text="Matricula: 20253DS054" style="-fx-font-size: 16px;"/>
